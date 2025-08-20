@@ -5,7 +5,9 @@ Hello. This is the first WordPress plugin I made. Thank you for using it.
 
 ## What, Why and How
 S/MIME is a protocol used for encrypting, decrypting, or signing E-mails. And This plugin focuses on the signing feature. 
+
 Signing emails can tell the recipients that your emails are not edited by other people, and they can trust the emails are sent by you. 
+
 You just need to get a S/MIME certificate, finish the following parts, and all the oudbound emails will be signed automaticaclly. 
 
 ## Prerequisite
@@ -37,8 +39,10 @@ After uploading the seperated key files to your server, you have to set correct 
 - Certificate chain: `chmod 644 certchain.pem`
 
 ### Plugin settings
-Install and activate the plugin, the setting page will appear on the left, with a sheild icon. 
+Install and activate the plugin, the setting page will appear on the left, with a sheild icon.
+
 What you need to do is filling the path and password fields, click Save, and everything is OK. 
+
 You can use the Email Send Test function in your SMTP plugin to test it. 
 
 The options will be deleted automatically after uninstalling the plugin. 
