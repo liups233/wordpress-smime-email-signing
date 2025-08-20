@@ -1,4 +1,7 @@
 # WordPress S/MIME 郵件簽署外掛
+
+[English](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.md) | [简体中文](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.zh-CN.md) | 繁體中文
+
 用於將所有外發郵件使用 S/MIME 證書簽署。
 
 你好，這是我做的第一個 WordPress 外掛，感謝使用。
