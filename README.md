@@ -1,4 +1,7 @@
 # WordPress S/MIME Email Signing Plugin
+
+English | [简体中文](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.zh-CN.md) | [繁體中文](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.zh-TW.md)
+
 A WordPress plugin for signing all outbound emails with S/MIME certificate
 
 Hello. This is the first WordPress plugin I made. Thank you for using it. 
