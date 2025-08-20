@@ -189,11 +189,7 @@ class WP_SMIME_SIGNING {
 					$settings['smime_password'],
 					$cert_chain_path
 				);
-			} else {
-				error_log( 'S/MIME signing failed: One or more files do not exist. ' );
 			}
-		} else {
-			error_log( 'Path fields are empty. ' );
 		}
 	}
 	
