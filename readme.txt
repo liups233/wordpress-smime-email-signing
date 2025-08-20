@@ -19,7 +19,11 @@ A plugin for signing all outbound emails with S/MIME certificate.
 3. You should use another plugin, such as FluentSMTP, to send emails through an external SMTP server. 
 
 = Get a S/MIME certificate =
-You can go to Actalis to apply for a free S/MIME certificate for one year. After applying, you can download a p12 certificate file, which contains public key, private key, and certificate chain. The password for the p12 file will be sent to your email. 
+You can go to Actalis to apply for a free S/MIME certificate for one year. 
+
+After applying, you can download a p12 certificate file, which contains public key, private key, and certificate chain. 
+
+The password to the p12 file will be sent to your email. 
 
 = Split the p12 file =
 In case the p12 file is named "smime.p12", do the following commmands to split it into seperated keys.
