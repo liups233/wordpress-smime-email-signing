@@ -1,4 +1,7 @@
 # WordPress S/MIME 邮件签名插件
+
+[English](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.md) | 简体中文 | [繁體中文](https://github.com/liups233/wordpress-smime-email-signing/blob/main/README.zh-TW.md)
+
 用于将所有外发邮件使用 S/MIME 证书签名。
 
 你好，这是我做的第一个 WordPress 插件，感谢使用。
