@@ -1,4 +1,4 @@
-# WordPress S/MIME Signing Plugin
+# WordPress S/MIME Email Signing Plugin
 A WordPress plugin for signing all outbound emails with S/MIME certificate
 
 Hello. This is the first WordPress plugin I made. Thank you for using it. 
