@@ -20,7 +20,9 @@ You just need to get a S/MIME certificate, finish the following parts, and all t
 ## Usage
 ### Get a S/MIME certificate
 You can go to Actalis to apply for a free S/MIME certificate for one year. 
+
 After applying, you can download a `p12` certificate file, which contains public key, private key, and certificate chain. 
+
 The password for the `p12` file will be sent to your email. 
 
 ### Split the p12 file
