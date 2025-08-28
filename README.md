@@ -6,7 +6,9 @@ A WordPress plugin for signing all outbound emails with S/MIME certificate
 
 Hello. This is the first WordPress plugin I made. Thank you for using it. 
 
-My Blog: [Liups233の小站](https://www.liups.net)
+My blog: [Liups233の小站](https://www.liups.net)
+
+WordPress plugin release page: [S/MIME Email Signing](https://wordpress.org/plugins/smime-email-signing/)
 
 ## What, Why and How
 S/MIME is a protocol used for encrypting, decrypting, or signing E-mails. And This plugin focuses on the signing feature. 
