@@ -57,4 +57,4 @@ You can use the Email Send Test function in your SMTP plugin to test it.
 The options will be deleted automatically after uninstalling the plugin. 
 
 ## To-Do List
-[] Use WordPress salt function to make the password of the secret key safer. 
+- [ ] Use WordPress salt function to make the password of the secret key safer. 
